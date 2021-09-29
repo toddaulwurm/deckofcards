@@ -1,0 +1,13 @@
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\deckofcards\bin\Debug\netcoreapp3.1\deckofcards.exe
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\deckofcards\bin\Debug\netcoreapp3.1\deckofcards.deps.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\deckofcards\bin\Debug\netcoreapp3.1\deckofcards.runtimeconfig.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\deckofcards\bin\Debug\netcoreapp3.1\deckofcards.runtimeconfig.dev.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\deckofcards\bin\Debug\netcoreapp3.1\deckofcards.dll
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\deckofcards\bin\Debug\netcoreapp3.1\deckofcards.pdb
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\deckofcards\obj\Debug\netcoreapp3.1\deckofcards.csprojAssemblyReference.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\deckofcards\obj\Debug\netcoreapp3.1\deckofcards.AssemblyInfoInputs.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\deckofcards\obj\Debug\netcoreapp3.1\deckofcards.AssemblyInfo.cs
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\deckofcards\obj\Debug\netcoreapp3.1\deckofcards.csproj.CoreCompileInputs.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\deckofcards\obj\Debug\netcoreapp3.1\deckofcards.dll
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\deckofcards\obj\Debug\netcoreapp3.1\deckofcards.pdb
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\deckofcards\obj\Debug\netcoreapp3.1\deckofcards.genruntimeconfig.cache
